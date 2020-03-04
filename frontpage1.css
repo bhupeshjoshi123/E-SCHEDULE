@@ -1,0 +1,270 @@
+
+body{
+	margin 0;
+	background-image:url(images/frontpage.jpg);
+	background-size:cover;
+    margin:0px;
+    padding:0px;
+     
+  font-family:"Lucida Sans Unicode", "Lucida Grande  ", sans-serif;
+	}
+
+html{
+	height:100%;
+}
+
+header h1 
+{   font-family:"Lucida Sans Unicode", "Lucida Grande  ", sans-serif;
+	background: yellow;
+    color:black;
+	text-align:center;
+    
+    font-weight: 400px;
+    font-size: 90px;
+    margin:0px;
+    padding:0px;
+    height:120px;
+        width: 1171px;
+
+
+}
+
+header h2
+{
+    font-family:"Lucida Sans Unicode", "Lucida Grande  ", sans-serif;
+	background: yellow;
+	
+	color:black;
+	
+    
+    font-size: 45px;
+    height:55px;
+    padding: 0px 0px 0px 0px;
+    margin:0px;
+        width: 1171px;
+          text-align:left;
+
+
+}
+
+#list1
+{
+    
+	display :inline;
+	padding:0px;
+	list-style-type: none;
+	text-decoration: none;
+	margin:0;
+	color:green;
+
+	
+}
+
+.liclass1
+{   font-color:white;
+	float:left;
+	text-align:left;
+	display:inline-box;
+	margin-left:100px;
+	
+text-decoration:none;
+
+
+
+}
+input[type=email]:focus {
+  background-color: lightblue;
+}
+input[type=name]:focus {
+  background-color: lightblue;
+}
+input[type=password]:focus {
+  background-color: lightblue;
+}
+nav ul li a
+{
+  	display:inline-box;
+	margin-left:40px;
+	text-decoration: none;
+	padding:0px;
+	float:left;
+    }
+
+
+
+ul li:hover
+ {
+ 	background: gray;
+ 	padding:0px;
+ 
+}
+ul li:hover ul {
+	display: block;
+
+}
+ul li ul {
+  position: absolute;
+  width:700px;
+  display: none;
+  margin-left:0;
+}
+ul li ul li { 
+ 
+  display: block; 
+}
+ul li ul li a 
+{display:block !important;
+}
+
+ul li ul li:hover {
+	background: gray;
+}
+.ame{
+	margin-top:20px;
+	color:white;
+
+}
+.ame:hover{
+	background-color:gray;
+    display : inline box;
+	float:left;
+}
+
+
+ .divider{
+ 	text-align:center;
+    top-margin:500px;
+    color:yellow;
+    font-size:30px;
+ }
+
+#login{
+   
+    
+	margin-left:70%;
+	form-align:inline-box;
+    
+    }
+
+  #log1{
+
+  	width:300px;
+  	text-decoration: none;
+
+  }
+
+  #log2{
+
+  	width:300px;
+  	text-decoration: none;
+  }
+ #log12{
+    color:blue;
+    text-decoration:none;
+
+ }
+ 
+ #log21{
+  text-decoration:none;
+ 	color:red;
+ }
+ 
+
+.headinglog{
+	text-align:left;
+	font-size:55px;
+
+}
+input[type=email] {
+ 	   	
+ 	   height:45px;
+ 	   width:600px;
+ 	   border: 0px 0 1px 0;
+       font-size:25px;
+       border: none;
+
+    border-bottom-color: currentcolor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+
+    border-bottom: 1px solid #aaa;
+
+    padding: 0.5rem;
+
+
+}
+input[type=password] {
+ 	    	
+ 	   height:45px;
+ 	   width:600px;
+ 	   border: 0px 0 1px 0;
+       font-size:25px;
+       border: none;
+
+    border-bottom-color: currentcolor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+
+    border-bottom: 1px solid #aaa;
+
+    padding: 0.5rem;
+}
+
+input[type=name] {
+ 	    	
+ 	   height:45px;
+ 	   width:600px;
+ 	   border: 0px 0 1px 0;
+       font-size:25px;
+       border: none;
+
+    border-bottom-color: currentcolor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+
+    border-bottom: 1px solid #aaa;
+
+    padding: 0.5rem;
+}
+
+
+#loginlast{
+
+	background-color:black;
+	color:white;
+	font-size:25px;
+	padding:0px 0px 0px 0px;
+	height:55px;
+	width:250px;
+}
+
+#l{
+	color:white;
+	text-decoration:none;
+}
+
+#loginlast:hover{
+	background-color:gray;
+}
+
+#frgt:hover{
+
+background-color:gray;
+}
+
+#frgt{
+	text-decoration:none;
+}
+
+.label1{
+	text-decoration:none;
+	
+	
+}
+
+.same1{
+	color:brown;
+
+#id{
+	background-size:100%;
+}
